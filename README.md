@@ -1,2 +1,2 @@
 # fanhaoc.github.io
-website
+website: https://fanhaoc.github.io/
