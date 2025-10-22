@@ -1,0 +1,1 @@
+import{_ as s,h as t}from"./homeButton-Caj16O6Z.js";import{c as a,b as o,a as c,o as d}from"./index-DCCFF-F8.js";const r={id:"cesium-demo"},_={class:"show"},m={__name:"cesiumDemo",setup(i){return(n,e)=>(d(),a("div",r,[o("div",_,[c(t),e[0]||(e[0]=o("div",{class:"card-box"},null,-1))])]))}},l=s(m,[["__scopeId","data-v-0bd5adc2"]]);export{l as default};
